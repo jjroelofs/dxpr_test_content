@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/uuid\/c5f37743-13d7-48b4-9de0-9f83feff01a2?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/drag_and_drop_page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "c5f37743-13d7-48b4-9de0-9f83feff01a2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "drag_and_drop_page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-16T13:28:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bf2ebdd7-e386-461f-a185-525cbf720e96"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bf2ebdd7-e386-461f-a185-525cbf720e96"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log": [
+        {
+            "value": "Saved with Glazed builder"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ajax Container",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-15T14:28:06+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-16T13:28:32+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uuid\/c5f37743-13d7-48b4-9de0-9f83feff01a2",
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div id=\"gb7uvcdp52\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb7uvcdp52\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbmc0116eu\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbvixf8um1\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbi3hxnoj6\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbg5nzqp6u\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Ajax Container with Footer Block<\/h2><h2><span style=\"font-size: 16px;\">Testing:<\/span><\/h2><ul><li>Test that inline editing works inside the ajax container<\/li><li>Test editing via modal works inside ajax container<\/li><li><span style=\"font-size: 16px;\">edit the footer block inside the ajax container<\/span><\/li><li><span style=\"font-size: 16px;\">Check that the onBeforeExit \"unsafed changes\" warning works for the ajax container<\/span><\/li><li><span style=\"font-size: 16px;\">Save ajax container<\/span><\/li><li><span style=\"font-size: 16px;\">Reload page and check that the element updated in the footer, too<\/span><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbqwpelklm\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-container glazed\" data-az-id=\"gbzp746lfy\" data-azb=\"az_container\" data-azat-container=\"block_content|drag_and_drop_block\/1|body\"><div class=\"az-ctnr\" data-azcnt=\"true\"><\/div><\/div><\/div><\/div><\/div><\/div><script src=\"-base-url-\/-module-directory-\/glazed_builder\/glazed_frontend.min.js\"><\/script>\n",
+            "format": "full_html",
+            "processed": "<div id=\"gb7uvcdp52\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb7uvcdp52\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbmc0116eu\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbvixf8um1\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbi3hxnoj6\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbg5nzqp6u\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Ajax Container with Footer Block<\/h2><h2><span style=\"font-size: 16px;\">Testing:<\/span><\/h2><ul><li>Test that inline editing works inside the ajax container<\/li><li>Test editing via modal works inside ajax container<\/li><li><span style=\"font-size: 16px;\">edit the footer block inside the ajax container<\/span><\/li><li><span style=\"font-size: 16px;\">Check that the onBeforeExit \"unsafed changes\" warning works for the ajax container<\/span><\/li><li><span style=\"font-size: 16px;\">Save ajax container<\/span><\/li><li><span style=\"font-size: 16px;\">Reload page and check that the element updated in the footer, too<\/span><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbqwpelklm\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-container glazed\" data-az-id=\"gbzp746lfy\" data-azb=\"az_container\" data-azat-container=\"block_content|drag_and_drop_block\/1|body\"><div class=\"az-ctnr\" data-azcnt=\"true\"><\/div><\/div><\/div><\/div><\/div><\/div><script src=\"-base-url-\/-module-directory-\/glazed_builder\/glazed_frontend.min.js\"><\/script>\n",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

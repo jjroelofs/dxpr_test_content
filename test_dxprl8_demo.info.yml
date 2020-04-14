@@ -1,0 +1,66 @@
+name: Test D8
+type: module
+version: 8.x-1.0
+description: Test Suite for Glazed Theme and Glazed Builder
+core: 8.x
+package: Sooperthemes
+dependencies:
+  - better_normalizers:better_normalizers
+  - default_content:default_content
+  - drupal:contact
+  - glazed_builder_block:glazed_builder_block
+  - glazed_builder_page:glazed_builder_page
+  - glazed_helper:glazed_helper
+  - styleguide:styleguide
+  - tokenuuid:tokenuuid
+  - webform:webform
+  - webform:webform_ui
+config:
+  install:
+    - glazed.settings
+    - color.theme.glazed
+    - block.block.basicfooter
+    - block.block.glazedfullscreensearch
+    - pathauto.pattern.uuid
+    - system.performance
+    - system.logging
+    - webform.webform.test_webform
+    - user.role.anonymous
+    - user.role.authenticated
+default_content:
+  block_content:
+    - 33644f9c-e6d7-4f18-b11f-3bfc160beaf9
+  node:
+    - 0a384a81-4306-4a81-8bb1-39485c62cc7d
+    - 3ecbb6cb-3b32-4355-bab2-c8a9fb479bfb
+    - 4389cee8-9eb3-4e94-a0e3-eaaf470752e5
+    - 4c5728b4-d125-473e-9244-a4c988204b69
+    - 6e72f3f2-0dbe-497f-b558-7e76649a4990
+    - 737b8bc8-da82-4926-9a2c-7753fe781d38
+    - 774b0357-abaa-432d-8dbb-368e1f290b8c
+    - 98bb72e8-5d61-4087-be4e-ab0e7b0fcc11
+    - c5f37743-13d7-48b4-9de0-9f83feff01a2
+    - e2fd17b0-710d-4c82-b244-dab0ecfaa10e
+    - d3cf1ddd-09a8-45c4-944c-9a2ed3a06c54
+  menu_link_content:
+    - 05e6dcc5-a552-4d98-bfef-c1aa46f13738
+    - 0da9a4ce-66bd-474e-a264-dbb6da6eadf7
+    - 17928df6-8e41-4eca-9b64-9529ca4753be
+    - 1f394dfe-1754-4498-ab62-1182791035c4
+    - 28221122-9a25-4735-b100-e0b600476d20
+    - 2ec697b2-1bf2-447f-a3da-9f0c13e26637
+    - 53d09b04-455e-4062-a1b4-845abf5cd27b
+    - 686b58b9-e70f-4fd2-b53c-cab7dcc0e1cc
+    - 6d1681dc-c266-4a05-a76d-68c86f9d46da
+    - 971b3e1c-653c-4276-af83-05fbbdaa2fa3
+    - ac2a67c8-5c84-446c-8afb-5985e5d953d7
+    - b512319d-5edb-4656-907a-4b6185a803cb
+    - b5f589af-5032-4705-889a-583b93724fa7
+    - b6a2ab5c-afa3-4bdc-8f84-f9ca26dce766
+    - be2db742-94a2-4ea4-acdc-997db645b0ad
+    - bedf0f1d-fcc0-43ba-8117-beba260d8ff4
+    - c37555a5-2204-4aae-b03b-9c4fa8073ebe
+    - d6b16475-6010-485a-aacb-94b43114ea42
+    - d7501a13-3eb3-43e3-9ff1-799fdb60e144
+    - e1bc97e7-acc2-4c29-ae15-fd3ba8a47b97
+    - e4e29315-4fdf-4099-97bd-1a3b978e0c41

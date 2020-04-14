@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/uuid\/4389cee8-9eb3-4e94-a0e3-eaaf470752e5?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/drag_and_drop_page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "4389cee8-9eb3-4e94-a0e3-eaaf470752e5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "drag_and_drop_page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-01T17:47:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bf2ebdd7-e386-461f-a185-525cbf720e96"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bf2ebdd7-e386-461f-a185-525cbf720e96"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log": [
+        {
+            "value": "Saved with Glazed builder"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Drupal Views Integration",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-15T14:28:03+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-01T17:47:54+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uuid\/4389cee8-9eb3-4e94-a0e3-eaaf470752e5",
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div id=\"gbt2mmrx0i\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbt2mmrx0i\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbcx7j9sli\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbnoxqm5lf\" data-azb=\"az_column\" data-azat-width=\"1\/4\" data-azcnt=\"true\"><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gblckab0m6\" data-azb=\"az_column\" data-azat-width=\" 1\/2 \" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbxvd4d7nl\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb8yy0532s\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Drupal Views Integration<\/h2><h2><span style=\"font-size: 16px;\">Testing:<\/span><\/h2><ul><li><span style=\"font-size: 16px;\">Verify that views displays are loading as described&nbsp;<\/span><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbrh7h4ph9\" data-azb=\"az_column\" data-azat-width=\" 1\/4\" data-azcnt=\"true\"><\/div><\/div><\/div><\/div><div id=\"gb2rr8sy5j\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb2rr8sy5j\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbyd4ztpri\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbwuq982cs\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbzrgjq8kp\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb144mwtam\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Views display&nbsp;with exposed filter form presented to end-user<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gb4l4uwuhn\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbh2x3h0ay\" data-azb=\"az_view-cms_blog_teasers-block\" data-azat-settings=\"field_cms_blog_category_target_id=All\" data-azat-display_exposed_filters=\"yes\" data-azat-display_title=\"yes\" data-azat-override_pager=\"no\" data-azat-items=\"\" data-azat-offset=\"\" data-azat-toggle_fields=\"field_cms_page_image,field_cms_blog_category,title,field_cms_page_body,created,nothing\"><\/div><\/div><\/div><\/div><\/div><div id=\"gbjc2e8e50\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbjc2e8e50\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbq4a9mouy\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbiwh0zb8w\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbmj6qi7ep\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbqlmmoit2\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Views display where Glazed Builder was used to hide the exposed filter form and override the exposed filter value, setting it to <strong>Lifestyle<\/strong> category.<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbhito7sdc\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gber4mqjfp\" data-azb=\"az_view-cms_blog_teasers-block\" data-azat-settings=\"field_cms_blog_category_target_id=6\" data-azat-display_title=\"yes\" data-azat-override_pager=\"no\" data-azat-items=\"\" data-azat-offset=\"\" data-azat-toggle_fields=\"field_cms_page_image,field_cms_blog_category,title,field_cms_page_body,created,nothing\"><\/div><\/div><\/div><\/div><\/div><div id=\"gbbk3dgwpt\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbbk3dgwpt\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gblpmwvwor\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbpsk6vgv8\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gb96ll3nt1\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbcefcj1mj\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Views display where Glazed Builder was used to override display settings:<\/p><ul><li>Disabled post date<\/li><li>Disabled body field<\/li><li>Set pager to 4 items<\/li><li>Set pager offset to skip the first 2 items<\/li><\/ul><p>@todo errors and views options not working?<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gb4pezegg6\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gblfw92wbk\" data-azb=\"az_view-cms_blog_teasers-block\" data-azat-settings=\"field_cms_blog_category_target_id=All\" data-azat-display_title=\"yes\" data-azat-override_pager=\"yes\" data-azat-items=\"4\" data-azat-offset=\"2\" data-azat-toggle_fields=\"field_cms_page_image,field_cms_blog_category,title,nothing\"><\/div><\/div><\/div><\/div><\/div><div id=\"gbjl79xg5z\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbjl79xg5z\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbgxvrrsjm\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbuk9ks291\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbjx84tdzu\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb9wqnzu32\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Contextual filter test, the views display to the left should display the&nbsp; title of this page.<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbnj8o1efq\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbwegtebs5\" data-azb=\"az_view-test_contextual_filter-block_1\" data-azat-display_title=\"yes\" data-azat-override_pager=\"no\" data-azat-items=\"\" data-azat-offset=\"\" data-azat-contextual_filter=\"\"><\/div><\/div><\/div><\/div><\/div>",
+            "format": "full_html",
+            "processed": "<div id=\"gbt2mmrx0i\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbt2mmrx0i\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbcx7j9sli\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbnoxqm5lf\" data-azb=\"az_column\" data-azat-width=\"1\/4\" data-azcnt=\"true\"><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gblckab0m6\" data-azb=\"az_column\" data-azat-width=\" 1\/2 \" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbxvd4d7nl\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb8yy0532s\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Drupal Views Integration<\/h2><h2><span style=\"font-size: 16px;\">Testing:<\/span><\/h2><ul><li><span style=\"font-size: 16px;\">Verify that views displays are loading as described\u00a0<\/span><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbrh7h4ph9\" data-azb=\"az_column\" data-azat-width=\" 1\/4\" data-azcnt=\"true\"><\/div><\/div><\/div><\/div><div id=\"gb2rr8sy5j\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb2rr8sy5j\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbyd4ztpri\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbwuq982cs\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbzrgjq8kp\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb144mwtam\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Views display\u00a0with exposed filter form presented to end-user<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gb4l4uwuhn\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbh2x3h0ay\" data-azb=\"az_view-cms_blog_teasers-block\" data-azat-settings=\"field_cms_blog_category_target_id=All\" data-azat-display_exposed_filters=\"yes\" data-azat-display_title=\"yes\" data-azat-override_pager=\"no\" data-azat-items=\"\" data-azat-offset=\"\" data-azat-toggle_fields=\"field_cms_page_image,field_cms_blog_category,title,field_cms_page_body,created,nothing\"><\/div><\/div><\/div><\/div><\/div><div id=\"gbjc2e8e50\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbjc2e8e50\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbq4a9mouy\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbiwh0zb8w\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbmj6qi7ep\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbqlmmoit2\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Views display where Glazed Builder was used to hide the exposed filter form and override the exposed filter value, setting it to <strong>Lifestyle<\/strong> category.<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbhito7sdc\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gber4mqjfp\" data-azb=\"az_view-cms_blog_teasers-block\" data-azat-settings=\"field_cms_blog_category_target_id=6\" data-azat-display_title=\"yes\" data-azat-override_pager=\"no\" data-azat-items=\"\" data-azat-offset=\"\" data-azat-toggle_fields=\"field_cms_page_image,field_cms_blog_category,title,field_cms_page_body,created,nothing\"><\/div><\/div><\/div><\/div><\/div><div id=\"gbbk3dgwpt\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbbk3dgwpt\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gblpmwvwor\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbpsk6vgv8\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gb96ll3nt1\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbcefcj1mj\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Views display where Glazed Builder was used to override display settings:<\/p><ul><li>Disabled post date<\/li><li>Disabled body field<\/li><li>Set pager to 4 items<\/li><li>Set pager offset to skip the first 2 items<\/li><\/ul><p>@todo errors and views options not working?<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gb4pezegg6\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gblfw92wbk\" data-azb=\"az_view-cms_blog_teasers-block\" data-azat-settings=\"field_cms_blog_category_target_id=All\" data-azat-display_title=\"yes\" data-azat-override_pager=\"yes\" data-azat-items=\"4\" data-azat-offset=\"2\" data-azat-toggle_fields=\"field_cms_page_image,field_cms_blog_category,title,nothing\"><\/div><\/div><\/div><\/div><\/div><div id=\"gbjl79xg5z\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbjl79xg5z\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbgxvrrsjm\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbuk9ks291\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbjx84tdzu\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb9wqnzu32\" data-azb=\"az_text\" data-azcnt=\"true\"><p>Contextual filter test, the views display to the left should display the\u00a0 title of this page.<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbnj8o1efq\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbwegtebs5\" data-azb=\"az_view-test_contextual_filter-block_1\" data-azat-display_title=\"yes\" data-azat-override_pager=\"no\" data-azat-items=\"\" data-azat-offset=\"\" data-azat-contextual_filter=\"\"><\/div><\/div><\/div><\/div><\/div>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

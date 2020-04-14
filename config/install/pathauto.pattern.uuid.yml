@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: uuid
+label: UUID
+type: 'canonical_entities:node'
+pattern: 'uuid/[node:uuid]'
+selection_criteria:
+  40e2a26d-43ad-4612-85f1-cb837954cc37:
+    id: node_type
+    bundles:
+      drag_and_drop_page: drag_and_drop_page
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 40e2a26d-43ad-4612-85f1-cb837954cc37
+selection_logic: and
+weight: -10
+relationships: {  }

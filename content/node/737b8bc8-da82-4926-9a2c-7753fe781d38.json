@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/uuid\/737b8bc8-da82-4926-9a2c-7753fe781d38?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/drag_and_drop_page"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "737b8bc8-da82-4926-9a2c-7753fe781d38"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "drag_and_drop_page"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-16T15:43:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bf2ebdd7-e386-461f-a185-525cbf720e96"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/drag_and_drop_page\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "bf2ebdd7-e386-461f-a185-525cbf720e96"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "revision_log": [
+        {
+            "value": "Saved with Glazed builder"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Drupal Blocks ",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-15T14:28:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-16T15:43:54+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uuid\/737b8bc8-da82-4926-9a2c-7753fe781d38",
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div id=\"gbg1dhjoyv\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbg1dhjoyv\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbb9ycsfeq\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbv5tmq0w5\" data-azb=\"az_column\" data-azat-width=\"1\/4\" data-azcnt=\"true\"><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gblecc4m2a\" data-azb=\"az_column\" data-azat-width=\" 1\/2 \" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbeucborsu\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbh0o6pu5n\" data-azb=\"az_text\" data-azcnt=\"true\"><h2><span style=\"color: inherit; font-family: inherit;\">Drupal Blocks<\/span><\/h2><h2><span style=\"font-size: 16px;\">Testing:<\/span><\/h2><ul><li><span style=\"font-size: 16px;\">Check that blocks are loaded as described<\/span><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbgiehzms2\" data-azb=\"az_column\" data-azat-width=\" 1\/4\" data-azcnt=\"true\"><\/div><\/div><\/div><\/div><div id=\"gb2hb2d6uv\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb2hb2d6uv\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div id=\"gbh4ak5wx3\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbh4ak5wx3\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbmja2b3iv\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbk51a6sbh\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbsfmntk8f\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbsyae10rx\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Basic footer block<\/h2><p>Footer block. (not editable)<\/p><p>@todo fix that inline editing is enabled on this block content, even though the block element can't be saved here.<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbudp7lprv\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbsk17zimo\" data-azb=\"az_block-block_content:33644f9c-e6d7-4f18-b11f-3bfc160beaf9\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><div id=\"gb8orz4gse\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb8orz4gse\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gb6byqxnk8\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbg4oqibxh\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbp7naus2l\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb1fw47nhz\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>User Login Form<\/h2><h2><span style=\"font-size: 16px;\">To the editor user this should render as an empty block container (because you are already logged in). To anonymous users it should show the login form, and it should be tested to work without errors or warnings.<\/span><\/h2><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbuvzikdfz\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbnp7wgack\" data-azb=\"az_block-user_login_block\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><\/div><\/div><div id=\"gb5tdqvfbs\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb5tdqvfbs\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div id=\"gbg3x658h6\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbg3x658h6\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbasygsrnv\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbqme4neq4\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gb0x3s3kmn\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbcfr8rh72\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Admin menu block<\/h2><h2><span style=\"font-size: 16px;\">The recent content admin block, or any block, will bypass access controls and show to the user. Glazed Builder editor users therefore have the power to expose private content to anonymous users.<\/span><\/h2><p><span style=\"font-size: 16px;\">In our next major release we will force access control on all Glazed Builder elements, which makes more sense to Enterprise clients who value finegrained access control over ease of use.<\/span><\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbjomrrlq1\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gby5867r3i\" data-azb=\"az_block-system_menu_block:admin\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><\/div><\/div><div id=\"gbscwy3bvi\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbscwy3bvi\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div id=\"gb15a1wfc8\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb15a1wfc8\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbi8dec5qw\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gb6qjtzqlq\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbciw2fv3h\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbytw2qkg9\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Webform<\/h2><p>Webform generated by webform module<\/p><p><br><\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gba2eldtc4\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbvh8uqqd1\" data-azb=\"az_block-glazed_builder_webform:test_webform\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><\/div><\/div>",
+            "format": "full_html",
+            "processed": "<div id=\"gbg1dhjoyv\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbg1dhjoyv\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbb9ycsfeq\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbv5tmq0w5\" data-azb=\"az_column\" data-azat-width=\"1\/4\" data-azcnt=\"true\"><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gblecc4m2a\" data-azb=\"az_column\" data-azat-width=\" 1\/2 \" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbeucborsu\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbh0o6pu5n\" data-azb=\"az_text\" data-azcnt=\"true\"><h2><span style=\"color: inherit; font-family: inherit;\">Drupal Blocks<\/span><\/h2><h2><span style=\"font-size: 16px;\">Testing:<\/span><\/h2><ul><li><span style=\"font-size: 16px;\">Check that blocks are loaded as described<\/span><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-3\" style=\"\" data-az-id=\"gbgiehzms2\" data-azb=\"az_column\" data-azat-width=\" 1\/4\" data-azcnt=\"true\"><\/div><\/div><\/div><\/div><div id=\"gb2hb2d6uv\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb2hb2d6uv\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div id=\"gbh4ak5wx3\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbh4ak5wx3\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbmja2b3iv\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbk51a6sbh\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbsfmntk8f\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbsyae10rx\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Basic footer block<\/h2><p>Footer block. (not editable)<\/p><p>@todo fix that inline editing is enabled on this block content, even though the block element can't be saved here.<\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbudp7lprv\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbsk17zimo\" data-azb=\"az_block-block_content:33644f9c-e6d7-4f18-b11f-3bfc160beaf9\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><div id=\"gb8orz4gse\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb8orz4gse\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gb6byqxnk8\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbg4oqibxh\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbp7naus2l\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gb1fw47nhz\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>User Login Form<\/h2><h2><span style=\"font-size: 16px;\">To the editor user this should render as an empty block container (because you are already logged in). To anonymous users it should show the login form, and it should be tested to work without errors or warnings.<\/span><\/h2><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbuvzikdfz\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbnp7wgack\" data-azb=\"az_block-user_login_block\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><\/div><\/div><div id=\"gb5tdqvfbs\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb5tdqvfbs\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div id=\"gbg3x658h6\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbg3x658h6\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbasygsrnv\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbqme4neq4\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gb0x3s3kmn\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbcfr8rh72\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Admin menu block<\/h2><h2><span style=\"font-size: 16px;\">The recent content admin block, or any block, will bypass access controls and show to the user. Glazed Builder editor users therefore have the power to expose private content to anonymous users.<\/span><\/h2><p><span style=\"font-size: 16px;\">In our next major release we will force access control on all Glazed Builder elements, which makes more sense to Enterprise clients who value finegrained access control over ease of use.<\/span><\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gbjomrrlq1\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gby5867r3i\" data-azb=\"az_block-system_menu_block:admin\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><\/div><\/div><div id=\"gbscwy3bvi\" class=\"az-element az-section\" style=\"\" data-az-id=\"gbscwy3bvi\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div id=\"gb15a1wfc8\" class=\"az-element az-section\" style=\"\" data-az-id=\"gb15a1wfc8\" data-azb=\"az_section\"><div class=\"az-ctnr container\" data-azcnt=\"true\"><div class=\"az-element az-row row az-row--sm\" style=\"\" data-az-id=\"gbi8dec5qw\" data-azb=\"az_row\" data-azat-device=\"sm\" data-azcnt=\"true\"><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gb6qjtzqlq\" data-azb=\"az_column\" data-azat-width=\"1\/2\" data-azcnt=\"true\"><div class=\"az-element az-well well\" style=\"\" data-az-id=\"gbciw2fv3h\" data-azb=\"az_well\"><div class=\"az-ctnr\" data-azcnt=\"true\"><div class=\"az-element az-text\" style=\"\" data-az-id=\"gbytw2qkg9\" data-azb=\"az_text\" data-azcnt=\"true\"><h2>Webform<\/h2><p>Webform generated by webform module<\/p><p><br \/><\/p><\/div><\/div><\/div><\/div><div class=\"az-element az-ctnr az-column col-sm-6\" style=\"\" data-az-id=\"gba2eldtc4\" data-azb=\"az_column\" data-azat-width=\" 1\/2\" data-azcnt=\"true\"><div class=\"az-element az-cms-element\" style=\"\" data-az-id=\"gbvh8uqqd1\" data-azb=\"az_block-glazed_builder_webform:test_webform\" data-azat-display_title=\"yes\"><\/div><\/div><\/div><\/div><\/div><\/div><\/div>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}
