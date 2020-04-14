@@ -1,4 +1,4 @@
-name: Test D8
+name: DXPR Test Content
 type: module
 version: 8.x-1.0
 description: Test Suite for Glazed Theme and Glazed Builder
@@ -11,8 +11,6 @@ dependencies:
   - glazed_builder_block:glazed_builder_block
   - glazed_builder_page:glazed_builder_page
   - glazed_helper:glazed_helper
-  - styleguide:styleguide
-  - tokenuuid:tokenuuid
   - webform:webform
   - webform:webform_ui
 config:
