@@ -1,30 +1,22 @@
 <?php
 
-// function dxpr_test_content_install() {
-//   // override existing configuration objects
-//   $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.system.performance');
-//   $settings = \Drupal::configFactory()->getEditable('system.performance');
-//   $settings->setData($cfg->get())->save();
-//   $cfg->delete();
-//   $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.system.logging');
-//   $settings = \Drupal::configFactory()->getEditable('system.logging');
-//   $settings->setData($cfg->get())->save();
-//   $cfg->delete();
-//   $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.glazed.settings');
-//   $settings = \Drupal::configFactory()->getEditable('glazed.settings');
-//   $settings->setData($cfg->get())->save();
-//   $cfg->delete();
-//   $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.user.role.anonymous');
-//   $settings = \Drupal::configFactory()->getEditable('user.role.anonymous');
-//   $settings->setData($cfg->get())->save();
-//   $cfg->delete();
-//   $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.user.role.authenticated');
-//   $settings = \Drupal::configFactory()->getEditable('user.role.authenticated');
-//   $settings->setData($cfg->get())->save();
-//   $cfg->delete();
+function dxpr_test_content_install() {
+  // override existing configuration objects
+  $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.system.performance');
+  $settings = \Drupal::configFactory()->getEditable('system.performance');
+  $settings->setData($cfg->get())->save();
+  $cfg->delete();
+  $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.system.logging');
+  $settings = \Drupal::configFactory()->getEditable('system.logging');
+  $settings->setData($cfg->get())->save();
+  $cfg->delete();
+  $cfg = \Drupal::configFactory()->getEditable('dxpr_test_content.glazed.settings');
+  $settings = \Drupal::configFactory()->getEditable('glazed.settings');
+  $settings->setData($cfg->get())->save();
+  $cfg->delete();
 
 //   // generate themesettings css and color module css
 //   require_once(drupal_get_path('theme', 'glazed') . '/glazed_callbacks.inc');
 //   glazed_color_module_css_write('glazed');
 //   glazed_css_cache_build('glazed');
-// }
+}
